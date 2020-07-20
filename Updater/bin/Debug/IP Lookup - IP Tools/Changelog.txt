@@ -1,0 +1,7 @@
+1.2
+
+- improved the menu
+- added ip pinger
+- added skype resolver
+- you can now check for updates
+- the menu now uses the "switch" method
